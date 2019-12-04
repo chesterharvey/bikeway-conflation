@@ -1,0 +1,7 @@
+.DS_Store
+.ipynb_checkpoints
+test_data/
+StreetSpace/
+__pycache__/
+__pycache__
+temp/

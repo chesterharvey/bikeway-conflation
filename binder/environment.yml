@@ -1,0 +1,9 @@
+name: spatial-data-environment
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - osmnx
+  - joblib
+  - pip:
+    - git+git://github.com/chesterharvey/StreetSpace
