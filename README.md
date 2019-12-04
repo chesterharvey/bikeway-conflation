@@ -1,7 +1,5 @@
 # Examining the Representativeness of OSM Bicycle Infrastructure in U.S. Cities
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/ds421/chester-final-project/master?filepath=Final%20Project.ipynb)
-
 ## About
 This project compares OSM and local agency bikeway datasets to demonstrate how linear features that are only approximatly aligned can be geometrically conflated. This process is sometimes also called "map matching."
 
