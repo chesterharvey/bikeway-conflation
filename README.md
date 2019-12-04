@@ -3,7 +3,7 @@
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/ds421/chester-final-project/master?filepath=Final%20Project.ipynb)
 
 ## About
-This repo uses a comparison of OSM and local agency bikeway datasets to demo how linear features that are only approximatly aligned can be geometrically conflated. This process is sometimes also called "map matching."
+This project compares OSM and local agency bikeway datasets to demonstrate how linear features that are only approximatly aligned can be geometrically conflated. This process is sometimes also called "map matching."
 
 ## Contents
 - `Bikeway Comparison.ipynb` : Jupyter notebook walking through the demo. Run it live online with [Binder](https://mybinder.org/v2/gh/ds421/chester-final-project/master?filepath=Final%20Project.ipynb). 
